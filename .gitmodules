@@ -1,3 +1,0 @@
-[submodule "trossen_arm_mujoco"]
-	path = trossen_arm_mujoco
-	url = https://github.com/TrossenRobotics/trossen_arm_mujoco.git

@@ -1,0 +1,9 @@
+dm_control
+dm_env
+h5py
+matplotlib
+numpy
+tqdm
+opencv-python
+pyquaternion
+trossen_arm
